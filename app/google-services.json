@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "165209540853",
+    "firebase_url": "https://psydata-f8bb0.firebaseio.com",
+    "project_id": "psydata-f8bb0",
+    "storage_bucket": "psydata-f8bb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165209540853:android:1a05108397795fe5f09dbc",
+        "android_client_info": {
+          "package_name": "com.example.technodote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165209540853-nbkdpjve7orlnjs117vslrrtrsc6nrg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Hc76n1OU9IxhnZqRo6DJisDIpiyQFsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165209540853-nbkdpjve7orlnjs117vslrrtrsc6nrg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
